@@ -36,3 +36,7 @@ s
 ![image](https://github.com/alexanderjaden/Devops/assets/162572716/e80d02d9-261f-4ca5-85fb-18d3ad2e940c)
 ![image](https://github.com/alexanderjaden/Devops/assets/162572716/c4236b6c-5fb9-4481-9f69-a9cb5bf768ba)
 ![image](https://github.com/alexanderjaden/Devops/assets/162572716/1adb4cd4-a8c5-413c-b730-35adf727cc11)
+![image](https://github.com/alexanderjaden/Devops/assets/162572716/ed9b4591-be8c-41c1-83fc-ea6a53831dc8)
+![image](https://github.com/alexanderjaden/Devops/assets/162572716/54fc69a0-870d-426c-9080-a74105feaeea)
+![image](https://github.com/alexanderjaden/Devops/assets/162572716/35e4cba0-6ab0-4422-a7e9-171c9ef9d39a)
+![image](https://github.com/alexanderjaden/Devops/assets/162572716/df26bfa1-2a4d-4926-b78d-4101af75bfc5)
